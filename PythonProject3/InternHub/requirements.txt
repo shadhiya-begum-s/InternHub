@@ -1,2 +1,2 @@
-djang
+django
 gunicorn
